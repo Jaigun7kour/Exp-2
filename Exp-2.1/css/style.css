@@ -1,0 +1,35 @@
+.container {
+    width: 400px;
+    margin: 80px auto;
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-weight: bold;
+    text-align: left;
+    background-color: #f4f4ff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 22px;
+    color: #1a3cff;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 180px;
+    font-size: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+    resize: none;
+    background-color: #fff4f4;
+    border: 2px solid #ff7b7b;
+    border-radius: 6px;
+}
+
+.char-count {
+    margin-top: 8px;
+    font-size: 18px;
+    color: #8c31cd;
+}
